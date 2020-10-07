@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/hyperkube:last
+FROM gcr.io/google_containers/hyperkube:latest
 
